@@ -26,6 +26,7 @@ public class Cola {
                 rear=null;
             }
             return data;
+            System.out.println("Hola invancito");
         }
     }
 
